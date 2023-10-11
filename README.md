@@ -19,16 +19,16 @@ Convert the file into a dataframe and get information of the data.
 ## STEP 4
 Return the objects containing counts of unique values using (value_counts()).
 
-## SSTEP 5
+## STEP 5
 Plot the counts in the form of Histogram or Bar Graph.
 
-## SSTEP 6
+## STEP 6
 Use seaborn the bar graph comparison of data can be viewed.
 
-## SSTEP 7
+## STEP 7
 Find the pairwise correlation of all columns in the dataframe.corr()
 
-## SSTEP 8
+## STEP 8
 Save the final data set into the file
 
 # PROGRAM
